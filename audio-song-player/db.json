@@ -1,0 +1,7 @@
+{
+    "songs": [
+      { "id": 1, "title": "Song One", "url": "../audio/audio1.mp3" },
+      { "id": 2, "title": "Song Two", "url": "../audio/audio2.mp3" },
+      { "id": 3, "title": "Song Three", "url": "../audio/audio1.mp3" }
+    ]
+  }
