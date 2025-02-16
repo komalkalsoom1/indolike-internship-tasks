@@ -1,5 +1,5 @@
 import React, { useState, useEffect, useRef } from 'react';
-import axios from 'axios';
+
 import { Play, Pause, SkipBack, SkipForward, Repeat, Shuffle } from 'lucide-react';
 
 const SongPlayer = () => {
